@@ -1,21 +1,21 @@
-# Welcome to my Github Profile 👋
+# Welcome to my Github Profile (=.=)
 
 <p><i> A versatile undergraduate IT student with good problem-solving skills.</i></p>
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-## ⚡🙋‍♂️ About Me
+## About Me
 
 </br>
 
-- 📖 I’m currently learning ... Python, Vala.
-- 💡 I’m curious about ... Data Analytics, IoT, System Engineering.
-- ❄️ I’m looking to collaborate on ... whatever!
-- 📫 Personal website: https://yutokutech.id.vn
+- I’m currently learning ... Python, Vala.
+- I’m curious about ... Data Analytics, AI, IoT, System Engineering.
+- I’m looking to collaborate on ... whatever!
+- Personal website: https://yutokutech.id.vn
 
 </br>
 
-## 🛠️ Skills
+## Skills
 
 #### Favorite Languagues
 
